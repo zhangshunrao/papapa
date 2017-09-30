@@ -14,4 +14,3 @@ this si 2017-09-27 line11
 this is 2017-09-27 line12
 this is line15
 this is line16
-this is line17
